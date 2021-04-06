@@ -2,6 +2,18 @@
 
   <PropertyGroup>
     <TargetFramework>net5.0</TargetFramework>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
+    <PackageLicenseFile>LICENSE</PackageLicenseFile>
+    <Authors>Sibies Soft</Authors>
+    <Company>Sibies Soft</Company>
+    <Copyright>Copyright © Sibies Soft</Copyright>
+    <PackageIcon>antet_site_iulie_2019.jpg</PackageIcon>
+    <PackageIconUrl />
+    <Description>Serviciul web portal.just.ro permite accesul la datele despre dosare, părţi şi şedinţe de judecată.</Description>
+    <PackageTags>portal just servicii dosar sentinte instante</PackageTags>
+    <NeutralLanguage>ro</NeutralLanguage>
+    <RepositoryUrl>https://github.com/sibies/Just.Net</RepositoryUrl>
   </PropertyGroup>
 
   <ItemGroup>
@@ -17,8 +29,18 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Responses\" />
-    <Folder Include="Requests\" />
+    <Folder Include="Connected Services\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="..\..\antet_site_iulie_2019.jpg">
+      <Pack>True</Pack>
+      <PackagePath></PackagePath>
+    </None>
+    <None Include="..\..\LICENSE">
+      <Pack>True</Pack>
+      <PackagePath></PackagePath>
+    </None>
   </ItemGroup>
 
 </Project>
