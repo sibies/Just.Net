@@ -14,6 +14,8 @@
     <PackageTags>portal just servicii dosar sentinte instante</PackageTags>
     <NeutralLanguage>ro</NeutralLanguage>
     <RepositoryUrl>https://github.com/sibies/Just.Net</RepositoryUrl>
+    <PackageId>Just.Ro.Portal.Net</PackageId>
+    <Product>Just.Ro.Portal.Net</Product>
   </PropertyGroup>
 
   <ItemGroup>
