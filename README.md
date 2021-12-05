@@ -3,7 +3,7 @@ Client .Net pentru portal.just.ro
 
 [![NuGet](https://img.shields.io/nuget/v/Just.Ro.Portal.Net.svg?style=flat-square)](https://www.nuget.org/packages/Just.Ro.Portal.Net)
 
-Documentatie ANAF: https://portal.just.ro/SitePages/acces.aspx
+Documentatie Portal Just: https://portal.just.ro/SitePages/acces.aspx
 
 http://portal.just.ro/SitePages/circumscriptii.aspx
 
